@@ -1,0 +1,23 @@
+RCM 
+
+1 evaluation 
+geminai 1.0 Accuracy: 24.18%
+gpt-3.5-turbo Accuracy: 46.80%
+gpt-4-o Accuracy: 23.00%
+Meta-Llama-3.1-8B 
+
+
+
+
+dataset prep 
+
+https://nvd.nist.gov/vuln/data-feeds :nvdcve-1.1-2024.json.gz : Données des CVEs de 2024.
+
+
+
+Eval My CVE2024
+geminai 1.0 
+gpt-3.5-turbo 
+gpt-4-o
+Meta-Llama-3.1-8B 
+
